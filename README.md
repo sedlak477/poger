@@ -1,4 +1,4 @@
-# Poger
+# Poger 🦃
 
 > :warning: **This project is work-in-progress and not even the core functionallity is implemented yet!**
 
